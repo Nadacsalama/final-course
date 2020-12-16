@@ -1,0 +1,124 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+h1 {
+  color: #66BFBF;
+  line-height: 1;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+h2{
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  padding: 10px;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  line-height: 2;
+}
+a{
+  color: #11999E;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+hr{
+  width: 10%;
+  background-color: none;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  margin: 100px auto;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 100px;
+  position: relative;
+
+}
+.middle-container{
+  margin: 100px 0 ;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.director-chair{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.clapperboard{
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px;
+  margin-bottom: 0;
+}
+.copyright{
+  padding-top: 20px 0;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.BUTTON_ICX {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+   width: 116px;
+   font-size: 13px;
+   font-weight: 100;
+   padding: 21px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_ICX:hover {
+   border: solid #79a3b1 1px;
+   background: #79a3b1;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
